@@ -2,6 +2,8 @@ This week we were introduced to arduino and the assignment was a blinking LED li
 
 ### Learnings
 - Layout of Arduino program
+- Arduino UNO microcontroller introduction
+  - Microcontrollers: Small computer-systems found in i.e 3D Printers
 - Anode and Kathode of LED: Long leg = Anode, short leg = Kathode-> put to ground in board
 - Change the blinking Pattern
 - Breadboard and resistor -> resistor connects rows or columns, not in same row
