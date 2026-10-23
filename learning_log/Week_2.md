@@ -1,9 +1,13 @@
 ### Learnings
 - powering breadboard with battery
 - Ohms law
+- 
   -> V (Volts) = I (Current, Amps) x R (resistance, Ohms)
+  
      I = V/R
+  
      R = V/I
+  
 - series vs parallel circuit
 - series: Divide voltage
 - parallel: every device recieves full voltage
