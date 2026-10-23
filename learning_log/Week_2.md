@@ -1,7 +1,6 @@
 ### Learnings
 - powering breadboard with battery
 - Ohms law
-- 
   -> V (Volts) = I (Current, Amps) x R (resistance, Ohms)
   
      I = V/R
