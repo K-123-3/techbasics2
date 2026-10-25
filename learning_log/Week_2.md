@@ -19,3 +19,6 @@
 - common Cathode for us
 <img width="375" height="500" alt="82192" src="https://github.com/user-attachments/assets/aaf5514c-8c1f-4efa-ac35-c97800d2689a" />
 <img width="500" height="375" alt="82178" src="https://github.com/user-attachments/assets/411e296b-8a3a-44b3-ab1d-5b572e85e016" />
+
+### Difficulties
+- The breadboard and battery was not working for me at first but i just didnt attach it properly
