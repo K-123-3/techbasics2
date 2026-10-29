@@ -16,6 +16,7 @@
 - we usually dont use pin 1 or 0
 
 **Tilt switch**
+
 <img width="300" height="400" alt="84072" src="https://github.com/user-attachments/assets/81d76e96-24d2-421d-ba40-f507e1571cbb" />
 
 - component that detects object tilting
