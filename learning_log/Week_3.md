@@ -1,5 +1,9 @@
 ### Learnings
 
+**AnalogRead()**
+- An analog pin will give you a value between **0 and 1023**, where **0 means 0V** and **1023 means the maximum voltage possible (5V by default)**
+- you can only use AnalogRead() on Analog pins
+
 **PWM - Pulse-Width Modulation**
 - digital method of controlling analog power by switching on and off rapidly
 - 0–255 : 0v - 5v (8 bits)
@@ -27,3 +31,7 @@
 - adjustsable resistor
 - commonly used in volume adjustment
 <img width="300" height="400" alt="20261027_121643" src="https://github.com/user-attachments/assets/611bd8f5-65c3-45e7-9e85-0845fd3ad4f6" />
+
+**Exercises**
+- Connect Tilt switch, use serial Monitor to read output
+- Connect Potentiometer and use it to dim an LED light
