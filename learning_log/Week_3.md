@@ -3,14 +3,14 @@
 #### AnalogRead()
 - An analog pin will give you a value between **0 and 1023**, where **0 means 0V** and **1023 means the maximum voltage possible (5V by default)**
 - you can only use AnalogRead() on Analog pins
-
+---
 #### PWM - Pulse-Width Modulation
 - digital method of controlling analog power by switching on and off rapidly
 - 0–255 : 0v - 5v (8 bits)
 - It is a widely used technique in dimming LEDs, controlling motor speed, etc
 - can be displayed with an oscilloscope
 
-- Different Arduino pins
+#### Different Arduino pins
 - We used gnd pin, 3.3 and 5V
 - red button resets, doesnt delete code but reruns it
 - Reset pin → possibility of automatic reset
