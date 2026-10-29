@@ -32,6 +32,7 @@
 - commonly used in volume adjustment
 <img width="300" height="400" alt="20261027_121643" src="https://github.com/user-attachments/assets/611bd8f5-65c3-45e7-9e85-0845fd3ad4f6" />
 ---
+
 #### Exercises
 - Connect Tilt switch, use serial Monitor to read output
 - Connect Potentiometer and use it to dim an LED light
