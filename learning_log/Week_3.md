@@ -24,4 +24,3 @@
 **Potentiometer**
 - adjustsable resistor
 - commonly used in volume adjustment
-- <img width="200" height="150" alt="82178" src="https://github.com/user-attachments/assets/4eb7a000-1246-4a73-b3a9-863d30562acb" />
